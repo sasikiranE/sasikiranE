@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/sasi kiran e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sasi kiran e" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sasi_2003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="e_sasi" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sasikirane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sasikirane" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/e_sasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="e_sasi" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Essamaraju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="e_sasi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/e_sasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="e_sasi" height="30" width="40" /></a>
 </p>
 
