@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sasikirane" alt="sasikirane" /></a> </p>
 
-- 🔭 I’m currently working on **Recommendation Systems**
+- 🔭 I’m currently working as a **Software engineer**
 
-- 🌱 I’m currently learning **Machine learning with python**
+- 🌱 I’m currently working as  **Frontend developer**
 
-- 💬 Ask me about **django**
+- 💬 Ask me about **React, JS, Redux**
 
 - 📫 How to reach me **sasikiranessamaraju@gmail.com**
 
